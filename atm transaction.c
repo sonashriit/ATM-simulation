@@ -18,7 +18,7 @@ void miniStatement();
 int main() {
  int choice;
  do {
-[2:40 pm, 27/12/2025] Sonashri 😇😇: printf("\n===== ATM TRANSACTION SIMULATION 
+ printf("\n===== ATM TRANSACTION SIMULATION 
 =====\n");
  printf("1. Create Account\n");
  printf("2. Deposit\n");
@@ -223,3 +223,4 @@ void miniStatement() {
  if(!found)
  printf("No transactions found for this account!\n");
 }
+
